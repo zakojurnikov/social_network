@@ -7,7 +7,7 @@ import Content from './components/Content/Content';
 function App() {
 	return (
 		<div className="main-wrapper">
-			<Header />
+			<Header logoText="social net" name="Данил" />
 			<Navbar />
 			<Content />
 		</div>
